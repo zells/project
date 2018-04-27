@@ -90,3 +90,18 @@ https://beakerbrowser.com/
 ### IPFS
 
 ### Etherium
+
+
+## Reserach
+
+### Bret Victor
+http://worrydream.com/
+
+### HARC
+https://harc.ycr.org/
+
+### DynamicLand
+https://dynamicland.org/
+
+### Future of Coding
+http://futureofcoding.org/
