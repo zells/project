@@ -105,3 +105,5 @@ https://dynamicland.org/
 
 ### Future of Coding
 http://futureofcoding.org/
+
+### Doug Engelbart
