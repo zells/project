@@ -4,13 +4,13 @@
 
 ### Gulash Programmier Nacht
 
-- 25. - 28.5.2017. in Karlsruhe
+- 25.-28.5.2017. in Karlsruhe
 - no charge, donation
 - mostly hacking, some talks (incl lightning talks)
 
 ### FrOSCon
 
-- 19. + 20. August 2017
+- 19./20. August 2017
 - maybe propose a talk about Software Literacy
 
 ### CCC Congress
@@ -25,7 +25,7 @@
 ### EasterHegg
 
 - https://eh17.easterhegg.eu
-- 14. - 17.4.2017
+- 14.-17.4.2017
 
 ### CurryOn
 
