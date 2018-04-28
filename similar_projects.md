@@ -103,6 +103,9 @@ https://harc.ycr.org/
 ### DynamicLand
 https://dynamicland.org/
 
+### CDG Labs
+http://www.cdglabs.org/
+
 ### Future of Coding
 http://futureofcoding.org/
 
