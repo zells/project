@@ -22,6 +22,12 @@ event-driven squeak
 David Smith
 David Reed (tea time)
 
+### Beach
+http://nearthespeedoflight.com/beach/
+
+### Hopscotch
+https://www.gethopscotch.com/
+
 
 ## Programming as game
 
@@ -44,6 +50,15 @@ https://calliope.cc/editor
 
 ### snap
 http://snap.berkeley.edu/
+
+
+## Visual Programming
+
+### Apparatus
+http://aprt.us/
+
+### Shadershop
+http://tobyschachman.com/Shadershop/
 
 
 ## Live Programming
