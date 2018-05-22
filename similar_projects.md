@@ -2,6 +2,9 @@
 
 ## Unsorted
 
+### Fizzygum
+http://fizzygum.org/
+
 ### Dark
 https://darklang.com/
 
