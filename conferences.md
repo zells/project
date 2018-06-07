@@ -32,6 +32,14 @@
 - http://www.curry-on.org/
 - 16./17.7.2018 in Amsterdam
 
+### Internet Freedom Festival
+
+- https://internetfreedomfestival.org/
+
+### Re:publica
+
+- https://re-publica.com
+
 
 ## Meet-Ups in Berlin
 
