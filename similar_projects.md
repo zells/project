@@ -2,6 +2,15 @@
 
 ## Unsorted
 
+### Flowsheets
+http://glench.com
+
+### Boxer
+A Reconstructible Computational Medium
+
+### GP Blocks
+https://gpblocks.org/
+
 ### Fizzygum
 http://fizzygum.org/
 
