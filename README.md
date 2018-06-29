@@ -10,7 +10,10 @@ So far this includes
 
 - a list of [similar projects]
 
+- a list of [use cases] to guide the prototype development.
+
 [log]: https://github.com/zells/project/tree/master/log
 [conferences]: https://github.com/zells/project/tree/master/conferences.md
 [similar projects]: https://github.com/zells/project/tree/master/similar_projects.md
+[use cases]: https://github.com/zells/project/blob/master/use_cases.md
 [Twitter]: https://twitter.com/sw_literacy
