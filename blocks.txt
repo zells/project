@@ -1,0 +1,123 @@
+# Blocks of the Zells system
+
+There are just a lot of parts (let's call them blocks) and it's important that I decide which ones to concentrate one without forgetting other blocks.
+
+
+## Signal Transmission
+
+Basic broadcasting of signals. Needs to define signal encoding standards (atoms & lists) and a protocol for transmitting signals as well as joining/leaving a network. A lot of this could probably be skipped in a non-networked implementation but since it's that foundational I should pay close attention to this block. Signals are broad-casted through the network so they need to be de-duplicated and therefore also have a expiration time.
+
+
+## Message Delivery
+
+A message is a signal that specifies who it is intended for and who to reply to and possibly other things, basically meta-data. I probably need some delivery confirmation and retry logic here to detect network partitions or non-existing recipients.
+
+### Routing
+
+Messages are still broad-casted to the entire network. To limit traffic, messages could be routed using the receiver name and some addressing scheme, ideally based on public keys. Routing information can be shared using messages as well.
+
+
+## Message Discovery
+
+A Zell should be able to inform a user about which messages it understands and what their effects are. For this to be usable, I need to develop a good user interface which requires zero guessing and either a minimum (touch) or maximum (speed) of keyboard usage. Example and hypothetical messages are probably a key tool here.
+
+
+## Authoring
+
+Zells are created by copying existing Zells. I'm not sure what requirements this original Zell must fulfill. Maybe it needs to be completely serializable. Maybe it can implement a "copy protocol". The latter would be preferred. Would mean that it has to be able to receive messages in different contexts. This would already allow me to do a bunch of things though.
+
+### Structure
+
+Zells should be easily constructed and edited. What the basic building block is depends on the capabilities of the system. Without graphics, the base set needs to contain the most common types, like numbers, strings, dictionaries and lists.
+
+### Behavior
+
+I also want to be able to change the reaction of a Zell to a received message. This would need to be integrated with message discovery somehow. My goal is to create an interface that relies heavily on examples. To the extent that you wouldn't be able to define behavior without defining an example as context. Basically example replace types so you never have to guess the interface of any Zells you want to interact with.
+
+
+## Analysis
+
+There needs to be excellent support for understanding what a piece of software does. This includes visualizations of structure and behavior, e.g. mapping time to space, as well as tracing execution, i.e. following messages to answer questions like "what are the relations of this module?" or "what happens when I click here?".
+
+### Understanding
+
+Is the block that deals with understanding what a bigger thing is all about and how the smaller things fit into it. This should be a more or less linear story, with a starting point and natural progressions, without loosing interactivity and exploration.
+
+### Debugging
+
+There also needs to be a way to analyze what a specific behavior does, especially if it's not doing what it's expected to do. You need to be able to visualize and follow the messages as they flow through the system. Bret's demos are the best inspiration here.
+
+
+## History
+
+Zells can keep histories of their former stated, which can be easily forked and merged.
+
+### Forking
+
+Every cloned Zell is basically a fork which is therefore the main mechanism for reusing behavior.
+
+### Merging
+
+A copied Zell should not automatically update if its original Zell updates, but be independent of it. Still, it should be able to integrate changes to the original into the copy.
+
+
+## Distribution
+
+Forking and merging would also be the model for distributing Zells. Two instances of a Zell would always try to synchronize each other by automatically merging the changes in the other's history. This might fail due to conflicts in which case histories would fork and have to be merged manually.
+
+### Migration
+
+The way to get two instances of a Zell is by migrating it from one device to another. This could happen manually or even automatically. The latter needs some way to make sure that the Zell exists at least on certain devices.
+
+
+## Graphics
+
+Signals and messages are blobs that have to be interpreted to be rendered. But my preferred approach is Zells to render themselves. For that, I need a graphics protocol that defines messages to draw simple forms on a canvas.
+
+### Text
+
+Drawing text is quite common and should therefore be especially easy. This could include some basic layouts, wrapping, and fonts. But it would still be letters drawing themselves, probably using a type face.
+
+### Layout
+
+For flexible user interfaces, I need some basic layouts that organize where and how big graphical elements are rendered. This could be very simple or more complicated, ideally with some constraints-based layout.
+
+### Manipulation
+
+Once I have graphical output, I probably want to interact with it directly with the mouse or other input devices. I need a flexible paradigm that translates easily between all kind of devices with different capabilities, e.g. mouse, touch or VR gloves.
+
+
+## Identity
+
+Each user should have a cryptographic identity with which they can sign and encrypt messages.
+
+### Access Control
+
+Using these identities, Zells can decide who they give access to what information. The user should be in full control over permission they grant to certain identities. These permissions can be limited to a number of usages or time window. The user then only needs to trust their client.
+
+
+## Network Tokens
+
+This is currently just a vague idea. But there must be an incentive to run nodes that transmit and route signals and messages. So maybe I could design a token that is earned by transmitting signals. This would create a basis for a truly distributed Internet where everybody is incentivized to run a tiny access point.
+
+
+## Complex Elements
+
+Besides being able to create and edit basic elements with magic operations, more complex elements also need to be authored.
+
+### Text Editor
+
+Edit, format and layout strings of symbols.
+
+### Image Editor
+
+Draw, edit, filter and transform graphical elements. Should be completely vector-based but support pixel graphics as well.
+
+### Graphing
+
+It would probably be nice to build a graphing library for representing data. Or maybe something so create graphs easily, Victor-style.
+
+
+## Integration
+
+Integration with other environments is important. It should be easy to interact with text, images, web pages and all kinds of files - local or remote. Ideally, it should be possible to interact with these elements completely seamlessly, as if they were created with zells. So it should be possible to copy, migrate, and merge from them. With some restrictions probably.
