@@ -2,6 +2,10 @@
 
 ## Unsorted
 
+### Something new collaboration
+continuation of vpri mailing list
+https://github.com/d-cook/SomethingNew
+
 ### Alive
 http://comealive.io/
 
