@@ -7,7 +7,7 @@ Status: draft
 	- not black and white
 	- everything that keeps you from working on your task that is not intrinsic to the task
 	- in the end it's a personal choice
-	
+
 
 ## The List
 
@@ -21,7 +21,7 @@ Ease of switching between execution and authoring environments.
 
 **Good**: Possible to do non-permanent changes in execution environment. Example: Web
 
-**Excellent**: Signle environment. Example: Smalltalk
+**Excellent**: Single environment. Example: Smalltalk
 
 
 ### Set-Up
@@ -39,7 +39,7 @@ Getting from zero to authoring.
 
 ### Dependencies
 
-Managing thrid-party modules and services.
+Managing third-party modules and services.
 
 **Bad**: Manual download and management necessary. Example: MatLab
 
@@ -54,7 +54,7 @@ Managing thrid-party modules and services.
 
 Burden of learning a specific syntax.
 
-**Bad**: Diffuclt to learn, no support. Example: C, Perl, Java, JavaScript
+**Bad**: Difficult to learn, no support. Example: C, Perl, Java, JavaScript
 
 **OK**: Difficult to learn but good feedback. Example: Java + IDE
 
@@ -71,7 +71,7 @@ Ease of understanding someone else's software in order to learn its model or mod
 
 **OK**: Source code is usually available, but not well structured. Example: Python, PHP, JavaScript
 
-**Good**: Code is usually well structured and categorized. Dynamic behaviour can be explored. Example: Smalltalk
+**Good**: Code is usually well structured and categorized. Dynamic behavior can be explored. Example: Smalltalk
 
 **Excellent**: Focus on comprehensibility, not executability. Example: Eve
 
@@ -125,7 +125,7 @@ Ease of discovering how a computational module is used.
 
 **Good**: Example: Java + IDE
 
-**Excellent**: Dynamic discovery and experimentatin while authoring.
+**Excellent**: Dynamic discovery and experimentation while authoring.
 
 
 ### Platform Lock-In
@@ -149,7 +149,7 @@ Need for and ease of serialization
 
 **OK**: Good tool support for serialization, standardized formats exist
 
-**Good**: Little serialization neccessary, usually automated
+**Good**: Little serialization necessary, usually automated
 
 **Excellent**: Serialization completely automated
 
@@ -186,11 +186,11 @@ Giving access to your software to somebody else
 
 **Bad**: Very unlikely to access without considerable effort
 
-**OK**: Receipient must meet certain criteria and expand some effort
+**OK**: Recipient must meet certain criteria and expand some effort
 
 **Good**: Very likely to access and well-defined group
 
-**Excellent**: Extremely likely that any receipient can access software with almost no trouble
+**Excellent**: Extremely likely that any recipient can access software with almost no trouble
 
 
 ### Security
