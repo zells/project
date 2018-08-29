@@ -1,0 +1,42 @@
+zell := Zell2 new
+
+zell receive: #foo
+
+	Slides on Scopes
+
+TranscriptScope2 new attachTo: zell
+
+	Show signals in Transcript
+
+text := TextZell2 new
+
+text receive: #foo
+text receive: {#body -> {#set -> #foo}}
+
+tScope := TextScope2 new attachTo: text
+
+tScope set: #foo
+
+TranscriptScope2 new attachTo: text
+
+	----- end of textual demo -----
+
+text openInHand
+tScope openInHand
+
+ListenerScope2 new openInHand
+
+	change value
+	clone and edit message
+	
+ContainerScope new openInHand
+
+InboxScope2 new openInHand
+
+	Broad-casted dispatch
+	
+	Alice with Address and Number
+	Change her Number
+	Clone to Bob
+	Put both in book
+	Change both cities and one city

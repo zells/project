@@ -1,0 +1,89 @@
+There we are again...
+
+... how about that presentation. I don't actually think I'll have too much time to work on it. Probably onyl today. So let's see what we got.
+
+
+Outline
+=======
+
+movtivation
+~~~~~~~~~~~
+
+The Why.
+For many years, I get this feeling when programming or teaching programming. This seems harder than it has to be. For the longest time I considered that feeling just caused by my naivety. But the feeling didn't go away.
+Last year I decided that making software easier is a worthwhile goal because of Software Literacy and the true computer revolution and global warming.
+
+
+complications
+~~~~~~~~~~~~~
+
+Incidental complications
+ - set-up
+ - dependencies
+ - syntax
+ - application programming interface
+ - lack of interactivity
+ - segregation
+ - serialized
+ - data safety
+ - sharing
+ - autonomy
+ - security
+ - model
+
+
+goals
+~~~~~
+
+Build software environment that avoids all incidental complications and teach children to make games with it. Tool for elementary school students, because Conway. 
+
+
+model
+~~~~~
+
+Inventing from first principles (Archimedes, Edison, Musk): Begin at the most fundamental truths and reasons up from there.
+
+Most fundamental truths about computing. Make computer do something. Make computer make computer do something.
+
+So we have to have something that can receive something. And a way to send stuff to others. => Zells, Dishes, and unidirectional, asynchronous, broadcasted Signals.
+
+
+prototype
+~~~~~~~~~
+
+Maybe can be skipped if everybody has watched the demo. Or just show the parts with Signal reception and Signal discovery.
+
+
+next steps
+~~~~~~~~~~
+
+Maybe paint picture of how it would look like?
+
+StemZell editor. Reaction editor. Delegation. Inheritance. Adoption. Basic values.
+
+
+comparison
+~~~~~~~~~~
+
+Using the complications
+
+- Actors
+is basically an implementation
+broadcasting
+mailboxes
+action creation
+axioms
+delivery guarantees similar
+  
+- Smalltalk
+
+- Etoys|Scratch|Snap
+
+- WWW
+
+- Lively Web (definitely last)
+comes closest
+different programming model (I think)
+not distributed (I think)
+different programming experience (syntax, no discovery)
+
