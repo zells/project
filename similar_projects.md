@@ -2,6 +2,9 @@
 
 ## Unsorted
 
+### Paper Programs
+https://paperprograms.org/
+
 ### Mech
 https://github.com/mech-lang/
 Corey Montella (Eve)
@@ -10,6 +13,9 @@ Corey Montella (Eve)
 continuation of vpri mailing list
 https://github.com/d-cook/SomethingNew
 Especially these ideas: https://github.com/d-cook/SomethingNew/issues/9
+
+### Visual Programming Codex
+https://github.com/ivanreese/visual-programming-codex
 
 ### Alive
 http://comealive.io/
@@ -90,6 +96,8 @@ http://snap.berkeley.edu/
 
 ## Visual Programming
 
+Great overview over visual programming languages: http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/
+
 ### Apparatus
 http://aprt.us/
 
@@ -161,3 +169,9 @@ http://www.cdglabs.org/
 http://futureofcoding.org/
 
 ### Doug Engelbart
+
+
+## Blogs
+
+### Programming in the 21st century
+https://prog21.dadgum.com/
