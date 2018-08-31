@@ -9,6 +9,7 @@ Corey Montella (Eve)
 ### Something new collaboration
 continuation of vpri mailing list
 https://github.com/d-cook/SomethingNew
+Especially these ideas: https://github.com/d-cook/SomethingNew/issues/9
 
 ### Alive
 http://comealive.io/
