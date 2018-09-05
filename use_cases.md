@@ -23,6 +23,8 @@ Control on-screen Turtles by discovering their protocol and sending Messages.
 
 ## Algorithms
 
+### Fibonacci
+
 ### Binary Search
 Bret Victor Demo with zells spin (histories, objects, examples) 
 
