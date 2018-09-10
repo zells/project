@@ -134,6 +134,11 @@ http://ncase.me/joy-demo/
 ### isomorf
 https://isomorf.io/
 
+### Newspeak
+http://bracha.org/Site/Newspeak.html
+https://en.wikipedia.org/wiki/Newspeak_(programming_language)
+https://www.youtube.com/watch?v=L4FLWSt9Px4
+
 
 ## Hyper Structure
 
