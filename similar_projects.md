@@ -2,6 +2,14 @@
 
 ## Unsorted
 
+### Universe
+Mobile (iOS) website builder
+http://onuniverse.com/
+
+### Philip J. Guo
+My research spans human-computer interaction, online learning, and computing education. 
+http://pgbovine.net/index.html
+
 ### Paper Programs
 https://paperprograms.org/
 
@@ -9,7 +17,7 @@ https://paperprograms.org/
 https://github.com/mech-lang/
 Corey Montella (Eve)
 
-### Something new collaboration
+### SomethingNew collaboration
 continuation of vpri mailing list
 https://github.com/d-cook/SomethingNew
 Especially these ideas: https://github.com/d-cook/SomethingNew/issues/9
@@ -45,9 +53,10 @@ https://darklang.com/
 https://solid.mit.edu/
 
 ### Blockstack
-https://blockstack.org/7
+https://blockstack.org/
 
-### Lively Kernel (Dan Ingalls)
+### Lively Kernel
+Dan Ingalls
 https://www.lively-kernel.org/
 https://lively-web.org/
 
@@ -109,6 +118,7 @@ http://tobyschachman.com/Shadershop/
 
 ### Lamdu
 https://github.com/lamdu/lamdu
+http://www.lamdu.org/
 This project aims to create a next-generation live programming environment that radically improves the programming experience.
 
 ### Unison
@@ -122,7 +132,7 @@ http://witheve.com/
 live programming IDE for C++
 
 ### Subtext
-http://www.subtext-lang.org/s
+http://www.subtext-lang.org/
 
 ### Conception
 live programming in Go
@@ -152,6 +162,7 @@ http://www.xanadu.net/
 https://beakerbrowser.com/
 
 ### IPFS
+https://ipfs.io/
 
 ### Etherium
 
@@ -174,9 +185,3 @@ http://www.cdglabs.org/
 http://futureofcoding.org/
 
 ### Doug Engelbart
-
-
-## Blogs
-
-### Programming in the 21st century
-https://prog21.dadgum.com/
