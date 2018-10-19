@@ -217,3 +217,16 @@ Dependencies on others
 **Good**: Controlled by public authority, permission always granted
 
 **Excellent**: No permission required, not controlled by anyone
+
+
+### Virtuality
+
+It shouldn't matter on which device you did something. You should be able to access the exact same space from any device.
+
+**Bad**:
+
+**OK**:
+
+**Good**:
+
+**Excellent**:

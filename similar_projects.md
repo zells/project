@@ -169,6 +169,9 @@ https://ipfs.io/
 
 ## Reserach
 
+### VPRI
+http://vpri.org
+
 ### Bret Victor
 http://worrydream.com/
 
