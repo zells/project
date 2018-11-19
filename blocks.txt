@@ -121,3 +121,4 @@ It would probably be nice to build a graphing library for representing data. Or 
 ## Integration
 
 Integration with other environments is important. It should be easy to interact with text, images, web pages and all kinds of files - local or remote. Ideally, it should be possible to interact with these elements completely seamlessly, as if they were created with zells. So it should be possible to copy, migrate, and merge from them. With some restrictions probably.
+Same goes for programs written in other languages. Should be possible to interact with them as seamlessly as possible, similar to the WWW.

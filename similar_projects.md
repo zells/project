@@ -2,9 +2,25 @@
 
 ## Unsorted
 
+### Eros (Tangible Functional Programming)
+http://conal.net/papers/Eros/
+-> Conal Elliot (http://conal.net/)
+
+### Coda
+dynamic documents
+https://coda.io/welcome
+
+### Glamorous Toolkit
+IDE in Pharo
+https://feenk.com/gt/
+
 ### Universe
-Mobile (iOS) website builder
+Website builder for iOS (maybe not that similar)
 http://onuniverse.com/
+
+### Symatem
+Flow graph based VPL
+https://symatem.github.io/
 
 ### Philip J. Guo
 My research spans human-computer interaction, online learning, and computing education. 
@@ -34,7 +50,7 @@ https://www.fullstack.io/choc/
 ### LightTable
 http://lighttable.com/
 
-### Flowsheets
+### Flowsheets/REPLUGGER
 http://glench.com
 
 ### Boxer
@@ -168,9 +184,6 @@ https://ipfs.io/
 
 
 ## Reserach
-
-### VPRI
-http://vpri.org
 
 ### Bret Victor
 http://worrydream.com/
