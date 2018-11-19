@@ -13,3 +13,9 @@ https://youtu.be/8pTEmbeENF4
 
 ### Victor: Media for thinking the unthinkable
 https://youtu.be/oUaOucZRlmE
+
+### Brandon: Scaling down
+http://scattered-thoughts.net/blog/2015/02/09/scaling-down/
+
+### Brandon: Pain we forgot
+http://scattered-thoughts.net/blog/2014/05/17/pain-we-forgot/
