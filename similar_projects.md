@@ -2,6 +2,45 @@
 
 ## Unsorted
 
+### SugarLabs
+https://sugarlabs.org/
+
+### LOGO
+https://en.wikipedia.org/wiki/Logo_(programming_language)
+
+### AgentSheets / AgentCubes
+http://www.agentsheets.com/
+http://edutechwiki.unige.ch/en/AgentSheets
+
+### ToonTalk
+http://www.toontalk.com/
+
+### Tynker
+Everything your child needs to learn computer programming the fun way! Ages 7+
+https://www.tynker.com/
+
+### Hazel
+Live and Direct Functional Programming with Holes
+http://hazel.org/
+
+### Espalier
+a structured spreadsheet tool for end-user development of organizational applications
+https://www.youtube.com/watch?v=0V0TIu_tW48&feature=youtu.be&t=30
+https://drive.google.com/file/d/1NUuD-9GgzYMlEdATTJT__FpRM4SB3ZDs/view
+
+### Vogo
+An experimental direct manipulation interface for Turtle Graphics
+http://mgrf.de/vogo/
+
+### Onex / Object Network
+Spreadsheets on smart devices
+http://Object.Network
+
+### PANE
+data-centric live programming environment (Fall 2018)
+http://joshuahhh.com/projects/pane/
+https://2018.splashcon.org/event/live-2018-papers-pane-programming-with-visible-data
+
 ### Eros (Tangible Functional Programming)
 http://conal.net/papers/Eros/
 -> Conal Elliot (http://conal.net/)
