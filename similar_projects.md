@@ -2,6 +2,21 @@
 
 ## Unsorted
 
+### Collection: Tools for Thinking With
+https://www.are.na/marcel-wolkenmachine/tools-for-thinking-with
+Especially: Gallery of Programmer Interfaces
+https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit#slide=id.g1da0625f1b_0_56
+
+### Hyper Pad
+https://github.com/noffle/hyperpad/
+
+### Insight Maker
+Agent based modelling
+https://insightmaker.com/
+
+### TreeSheets
+http://strlen.com/treesheets/
+
 ### Playground
 http://worrydream.com/refs/Fenton%20-%20Playground.pdf
 
