@@ -1,0 +1,7 @@
+# 2019 Week 6
+
+My sabbatical ended in 2018 so I was not that actively working on zells in January since I was busy finding a new freelance gig. I continued working on the proposal of which since two weeks ago I have a version which is not completely terrible. And I have created a little demo of what a simulation building project could look like by simulation gravity in Squeak. I still plan to record this but basically you start with a falling ball, add directions and end up with orbiting balls. Easier to show than tell so hopefully I record it soon.
+
+What got me to write to the log today is that last week I decided to significantly shift my focus and join a project which I think will be a great vehicle for zells when it's ready but can have an important impact on school students until then. Therefore I probably won't add to this log at least for a while. Any other updates (like recording the above mentioned demo or more info about this new project) I will share on [Twitter].
+
+[Twitter]: https://twitter.com/sw_literacy
