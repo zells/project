@@ -152,6 +152,9 @@ https://www.gethopscotch.com/
 ### GraalVM
 https://www.graalvm.org/
 
+### [Bootstrap Curriculum](https://www.bootstrapworld.org/)
+Computational modeling in Algebra, Physics and Data Science, for all students.
+
 
 ## Programming as game
 
